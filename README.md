@@ -7,4 +7,4 @@ Results are calculated using the routine "main_compute_minimizer.m":
 1. set configuration in "main_compute_minimizer.m"
 2. run "main_compute_minimizer.m"
 
-Set "parallel=true" if Parallel Computing Toolbox is available. Testes with MATLAB version R2023b.
+Set "parallel=true" if Parallel Computing Toolbox is available. Tested with MATLAB version R2023b.
